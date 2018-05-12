@@ -1,0 +1,47 @@
+_repo: Pursuit_31587
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: archival
+  image_path: 31587-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Del Rey, Lester
+    aliases:
+    - Knapp, Leonard
+    - Rey, Lester del
+    birthdate: 1915
+    deathdate: 1993
+    gutenberg_agent_id: '8240'
+    url: http://www.gutenberg.org/2009/agents/8240
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/46565
+    - http://en.wikipedia.org/wiki/Lester_del_Rey
+description: '"Dave stared around the office. He went to the window and stared upwards
+  at the crazy patchwork of the sky. For all he knew, in such a sky there might be
+  cracks. In fact, as he looked, he could make out a rift, and beyond that a ... hole
+  ... a small patch where there was no color, and yet the sky there was not black.
+  There were no stars there, though points of light were clustered around the edges,
+  apparently retreating.''"'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Subconsciousness -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Science fiction'
+title: Pursuit
+url: http://www.gutenberg.org/ebooks/31587
